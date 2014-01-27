@@ -1,0 +1,12 @@
+{
+	"name": "百度网盘",
+	"description": "A shortcut to baidu yun web",
+	"version": "0.1",
+	"app": {
+		"launch": {
+			"web_url": "http://pan.baidu.com/disk/home"
+		}
+	},
+	"icons": { "128": "duyun-128.png" },
+	"manifest_version": 2
+}
